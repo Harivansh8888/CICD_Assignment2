@@ -1,0 +1,8 @@
+package cicd_assignment2;
+
+public class Test {
+	public static void main(String args[]) {
+		System.out.println("Hello World");
+		System.out.println("CICD Assignment 2 by Harivansh");
+	}
+}
